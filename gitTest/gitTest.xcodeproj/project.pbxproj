@@ -14,6 +14,7 @@
 		0591E67224E94792009DEFA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0591E67124E94792009DEFA0 /* Assets.xcassets */; };
 		0591E67524E94792009DEFA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0591E67324E94792009DEFA0 /* LaunchScreen.storyboard */; };
 		0591E67824E94792009DEFA0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0591E67724E94792009DEFA0 /* main.m */; };
+		0591E68024E98486009DEFA0 /* qqqq.m in Sources */ = {isa = PBXBuildFile; fileRef = 0591E67F24E98486009DEFA0 /* qqqq.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		0591E67424E94792009DEFA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0591E67624E94792009DEFA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0591E67724E94792009DEFA0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0591E67E24E98486009DEFA0 /* qqqq.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = qqqq.h; sourceTree = "<group>"; };
+		0591E67F24E98486009DEFA0 /* qqqq.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = qqqq.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				0591E67324E94792009DEFA0 /* LaunchScreen.storyboard */,
 				0591E67624E94792009DEFA0 /* Info.plist */,
 				0591E67724E94792009DEFA0 /* main.m */,
+				0591E67E24E98486009DEFA0 /* qqqq.h */,
+				0591E67F24E98486009DEFA0 /* qqqq.m */,
 			);
 			path = gitTest;
 			sourceTree = "<group>";
@@ -146,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0591E68024E98486009DEFA0 /* qqqq.m in Sources */,
 				0591E66D24E94790009DEFA0 /* ViewController.m in Sources */,
 				0591E66724E94790009DEFA0 /* AppDelegate.m in Sources */,
 				0591E67824E94792009DEFA0 /* main.m in Sources */,
